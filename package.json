@@ -1,0 +1,19 @@
+{
+  "name": "postcss-compass-gradient",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to calls out to compass to generate image backups of CSS gradients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Tom McCaffery",
+    "email": "tom@weareadjacent.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "pngjs": "^3.4.0",
+    "postcss": "^7.0.21"
+  }
+}
