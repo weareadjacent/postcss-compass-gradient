@@ -14,6 +14,6 @@
   "devDependencies": {
     "mkdirp": "^0.5.1",
     "pngjs": "^3.4.0",
-    "postcss": "^7.0.21"
+    "postcss": "^8.2.10"
   }
 }
